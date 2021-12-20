@@ -1,2 +1,0 @@
-# pk-blog
-Personal Blog
